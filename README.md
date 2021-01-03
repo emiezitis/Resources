@@ -9,6 +9,9 @@ Web app penterstion seclists #pentest #web_app_penetration
 * http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet
 * http://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet
 * http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet
+### SQL Map:
+- https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet
+- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 
 ## XSS
 * http://www.xss-payloads.com/
