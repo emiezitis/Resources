@@ -27,6 +27,10 @@ _____________
 * https://github.com/payloadbox/xss-payload-list
 * https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 
+### WAF bypass
+* https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md
+* https://github.com/JeremyNGalloway/WAF-bypass-fuzz-payloads/blob/master/waf_ninja_payloads.csv
+
 ## Shells and Stuff
 * https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#reverse-shell-cheat-sheet
 * http://pentestmonkey.net/category/tools/web-shells
